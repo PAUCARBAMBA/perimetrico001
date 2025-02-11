@@ -47,7 +47,7 @@ function createParcelPopup(feature, layer) {
 
                   </div>
                   <div class="popup-actions">
-                      <a href="https://paucarbamba.github.io/verificador/" class="action-button primary">
+                      <a href="https://drive.google.com/drive/folders/1m6XEIm7IVd9oGhaywY1J_9hmACWBaufe?usp=drive_link" class="action-button primary">
                           <i class="fas fa-map"></i>
                           <span>Descargar Plano</span>
                       </a>
